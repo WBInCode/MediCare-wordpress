@@ -1,0 +1,5 @@
+node_modules/
+.wp-env/
+*.log
+setup-demo.sh
+setup-demo-pl.sh

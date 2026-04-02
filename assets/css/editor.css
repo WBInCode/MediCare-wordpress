@@ -1,0 +1,32 @@
+/**
+ * Bellezza — Editor Styles
+ *
+ * @package Bellezza
+ */
+
+.editor-styles-wrapper {
+  font-family: 'Inter', system-ui, -apple-system, 'Segoe UI', sans-serif;
+  font-size: 1rem;
+  line-height: 1.7;
+  color: #3a3a3a;
+}
+
+.editor-styles-wrapper h1,
+.editor-styles-wrapper h2,
+.editor-styles-wrapper h3,
+.editor-styles-wrapper h4,
+.editor-styles-wrapper h5,
+.editor-styles-wrapper h6 {
+  font-family: 'Playfair Display', Georgia, serif;
+  font-weight: 600;
+  line-height: 1.2;
+  color: #2d2d2d;
+}
+
+.editor-styles-wrapper a {
+  color: #c9a0a0;
+}
+
+.editor-styles-wrapper a:hover {
+  color: #b08968;
+}
